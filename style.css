@@ -35,7 +35,6 @@ button:hover {
   opacity: 0.8;
 }
 .image1{
-  position: fixed;
   width: 500px;
   height: 500px;
   clip-path:polygon(7% 0, 95% 50%, 7% 100%);
